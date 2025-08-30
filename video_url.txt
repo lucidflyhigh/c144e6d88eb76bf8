@@ -1,0 +1,5 @@
+Player URL:
+https://lucidflyhigh.github.io/player/?list=https://raw.githubusercontent.com/lucidflyhigh/c144e6d88eb76bf8/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/lucidflyhigh/c144e6d88eb76bf8/refs/heads/master/github_master.m3u8
